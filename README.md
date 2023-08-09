@@ -1,2 +1,2 @@
-# Js-Portfolio2
+# JS-Portfolio
 portfolio of work samples
