@@ -44,3 +44,5 @@ JavaScript
 # Credits
 https://fontawesome.com/
 No License: Copyright @ Junior S. Made with time 
+
+<img width="1208" alt="Screen Shot 2023-08-02 at 12 08 37 PM" src="https://github.com/Hsolojr/Js-Portfolio2/assets/139496108/e583326b-7b0c-4b80-96f2-385e505ac58f">
